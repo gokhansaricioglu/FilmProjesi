@@ -1,0 +1,12 @@
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\bin\Debug\FilmClassLib.dll
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\bin\Debug\FilmClassLib.pdb
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.csprojAssemblyReference.cache
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.csproj.CoreCompileInputs.cache
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.dll
+C:\Users\zuzu\source\repos\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.pdb
+G:\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.csprojAssemblyReference.cache
+G:\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.csproj.CoreCompileInputs.cache
+G:\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.dll
+G:\FilmProjesi\FilmClassLib\obj\Debug\FilmClassLib.pdb
+G:\FilmProjesi\FilmClassLib\bin\Debug\FilmClassLib.dll
+G:\FilmProjesi\FilmClassLib\bin\Debug\FilmClassLib.pdb
